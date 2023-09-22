@@ -1,3 +1,3 @@
 # weather_app
 
-A new Flutter project.
+simple weather app with flutter bloc state management
